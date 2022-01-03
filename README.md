@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMMatos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMMatos&hide=kotlin,java)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MiguelMMatos/MiguelMMatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
